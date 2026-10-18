@@ -7,3 +7,10 @@
 .card.rec{border:2px solid #0b6e4f}.tag{position:absolute;top:-11px;left:16px;background:#0b6e4f;color:#fff;font-size:12px;padding:2px 8px;border-radius:6px}.price{font-size:26px;font-weight:700;margin:4px 0}
 .tbl{overflow-x:auto}table{border-collapse:collapse;width:100%;background:#fff;font-size:14px}th,td{padding:8px 10px;border-bottom:1px solid #e3ece8;text-align:left}th{background:#eaf3ef}
 .muted{color:#5d756d;font-size:14px}input{padding:11px;border:1px solid #bcd0c8;border-radius:8px;min-width:260px}details{background:#fff;border:1px solid #dbe7e2;border-radius:8px;padding:12px;margin:8px 0}summary{font-weight:600;cursor:pointer}
+
+/* Generated page additions */
+.page-links{display:flex;flex-wrap:wrap;gap:10px;margin-bottom:24px}.cta{padding:22px;margin:28px 0;background:#eaf3ef;border:1px solid #bcd0c8;border-radius:12px}form label{display:block;margin:12px 0}form label input:not([type=checkbox]),select,textarea{display:block;max-width:100%;width:100%;padding:10px;border:1px solid #bcd0c8;border-radius:8px}input[type=checkbox]{min-width:0}textarea{font:inherit}td,th{vertical-align:top;overflow-wrap:anywhere}section{margin:28px 0}
+#pricing .card{display:flex;flex-direction:column;gap:6px}
+#pricing .card p:not(.price){flex-grow:1}
+#pricing .card .btn{display:block;width:100%;box-sizing:border-box;text-align:center;margin-top:8px}
+#pricing .card .btn + .btn{margin-top:4px}
