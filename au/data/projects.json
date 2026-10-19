@@ -2154,7 +2154,7 @@
   {
    "slug": "mavis-hybrid-facility-solar",
    "name": "Mavis Hybrid Facility - Solar",
-   "owner": "Metlen Energy &amp;amp;amp; Metals",
+   "owner": "Metlen Energy & Metals",
    "state": "NSW",
    "region": "NSW1",
    "technology": "Solar+BESS hybrid",
@@ -2914,7 +2914,7 @@
   {
    "slug": "romani-solar-farm",
    "name": "Romani Solar Farm",
-   "owner": "Samsung C&amp;T Renewable Energy Australia Pty Ltd",
+   "owner": "Samsung C&T Renewable Energy Australia Pty Ltd",
    "state": "NSW",
    "region": "NSW1",
    "technology": "Solar+BESS hybrid",
@@ -6410,7 +6410,7 @@
   {
    "slug": "the-block-bess",
    "name": "The Block BESS",
-   "owner": "Samsung C&amp;amp;amp;T Renewable Energy Australia Pty Ltd",
+   "owner": "Samsung C&T Renewable Energy Australia Pty Ltd",
    "state": "QLD",
    "region": "QLD1",
    "technology": "BESS",
