@@ -25,7 +25,7 @@
   },
   {
    "slug": "albury-mill-bess-kci",
-   "name": "Albury Mill BESS - KCI",
+   "name": "Albury Mill BESS",
    "owner": "VISY PULP AND PAPER PTY. LTD.",
    "state": "NSW",
    "region": "NSW1",
@@ -120,7 +120,7 @@
   },
   {
    "slug": "arthur-s-hill-energy-park-kci",
-   "name": "Arthur's Hill Energy Park - KCI",
+   "name": "Arthur's Hill Energy Park",
    "owner": "Pacific Green Energy Parks Developments Pty Ltd",
    "state": "NSW",
    "region": "NSW1",
@@ -139,7 +139,7 @@
   },
   {
    "slug": "ashleigh-park-bess-kci",
-   "name": "Ashleigh Park BESS - KCI",
+   "name": "Ashleigh Park BESS",
    "owner": "Ashleigh Park Beef Pty Ltd",
    "state": "NSW",
    "region": "NSW1",
@@ -443,7 +443,7 @@
   },
   {
    "slug": "borambola-hybrid-kci",
-   "name": "Borambola Hybrid - KCI",
+   "name": "Borambola Hybrid",
    "owner": "British Solar Renewables Pty Ltd",
    "state": "NSW",
    "region": "NSW1",
@@ -538,7 +538,7 @@
   },
   {
    "slug": "brushy-creek-solar-farm-and-bess-kci",
-   "name": "Brushy Creek Solar Farm and BESS - KCI",
+   "name": "Brushy Creek Solar Farm and BESS",
    "owner": "British Solar Renewables Pty Ltd",
    "state": "NSW",
    "region": "NSW1",
@@ -614,7 +614,7 @@
   },
   {
    "slug": "buronga-bess-storage-kci",
-   "name": "Buronga BESS - Storage - KCI",
+   "name": "Buronga BESS - Storage",
    "owner": "BESS Clyde North Pty Ltd",
    "state": "NSW",
    "region": "NSW1",
@@ -785,7 +785,7 @@
   },
   {
    "slug": "comet-park-bess-kci",
-   "name": "Comet Park BESS - KCI",
+   "name": "Comet Park BESS",
    "owner": "Samsung C&T Renewable Energy Australia Pty Ltd.",
    "state": "NSW",
    "region": "NSW1",
@@ -918,7 +918,7 @@
   },
   {
    "slug": "denman-bess-kci",
-   "name": "Denman BESS - KCI",
+   "name": "Denman BESS",
    "owner": "M Renewables Australia Developments Pty Ltd",
    "state": "NSW",
    "region": "NSW1",
@@ -1089,7 +1089,7 @@
   },
   {
    "slug": "flat-rock-bess-kci",
-   "name": "Flat Rock BESS - KCI",
+   "name": "Flat Rock BESS",
    "owner": "Private Energy Partners Pty Ltd",
    "state": "NSW",
    "region": "NSW1",
@@ -1108,7 +1108,7 @@
   },
   {
    "slug": "flat-rock-bess-b-kci",
-   "name": "Flat Rock BESS B - KCI",
+   "name": "Flat Rock BESS B",
    "owner": "Private Energy Partners Pty Ltd",
    "state": "NSW",
    "region": "NSW1",
@@ -1260,7 +1260,7 @@
   },
   {
    "slug": "gillenbah-bess-kci",
-   "name": "Gillenbah BESS - KCI",
+   "name": "Gillenbah BESS",
    "owner": "Gillenbah BESS Development Pty Ltd",
    "state": "NSW",
    "region": "NSW1",
@@ -1298,7 +1298,7 @@
   },
   {
    "slug": "glen-inness-bess-kci",
-   "name": "Glen Inness BESS - KCI",
+   "name": "Glen Inness BESS",
    "owner": "FIrm Power P/L",
    "state": "NSW",
    "region": "NSW1",
@@ -1450,7 +1450,7 @@
   },
   {
    "slug": "gundary-standalone-bess-kci",
-   "name": "Gundary standalone BESS - KCI",
+   "name": "Gundary standalone BESS",
    "owner": "Lightsource Asset Management Australia Pty Ltd",
    "state": "NSW",
    "region": "NSW1",
@@ -1488,7 +1488,7 @@
   },
   {
    "slug": "gunnedah-east-bess-green-leap-kci",
-   "name": "Gunnedah East BESS (Green Leap) - KCI",
+   "name": "Gunnedah East BESS (Green Leap)",
    "owner": "Green Leap P/L",
    "state": "NSW",
    "region": "NSW1",
@@ -1545,7 +1545,7 @@
   },
   {
    "slug": "hanworth-bess-kci",
-   "name": "Hanworth BESS - KCI",
+   "name": "Hanworth BESS",
    "owner": "",
    "state": "NSW",
    "region": "NSW1",
@@ -1583,7 +1583,7 @@
   },
   {
    "slug": "hidden-hill-bess-kci",
-   "name": "Hidden Hill BESS - KCI",
+   "name": "Hidden Hill BESS",
    "owner": "Private Energy Partners Pty Ltd",
    "state": "NSW",
    "region": "NSW1",
@@ -1621,7 +1621,7 @@
   },
   {
    "slug": "holloway-bess-kci",
-   "name": "Holloway BESS - KCI",
+   "name": "Holloway BESS",
    "owner": "Bushranger Project Pty Ltd.",
    "state": "NSW",
    "region": "NSW1",
@@ -1754,7 +1754,7 @@
   },
   {
    "slug": "jindera-bess-storage-kci",
-   "name": "Jindera BESS - Storage - KCI",
+   "name": "Jindera BESS - Storage",
    "owner": "BESS Atlantic",
    "state": "NSW",
    "region": "NSW1",
@@ -1906,7 +1906,7 @@
   },
   {
    "slug": "lake-road-battery-tuggerah-kci",
-   "name": "Lake Road Battery Tuggerah - KCI",
+   "name": "Lake Road Battery Tuggerah",
    "owner": "Lake Road Battery Pty Ltd",
    "state": "NSW",
    "region": "NSW1",
@@ -2096,7 +2096,7 @@
   },
   {
    "slug": "mangoplah-bess-kci",
-   "name": "Mangoplah BESS - KCI",
+   "name": "Mangoplah BESS",
    "owner": "Samsung C&T Renewable Energy Australia Pty Ltd.",
    "state": "NSW",
    "region": "NSW1",
@@ -2267,7 +2267,7 @@
   },
   {
    "slug": "minimbah-bess-kci",
-   "name": "Minimbah BESS - KCI",
+   "name": "Minimbah BESS",
    "owner": "CleanGen Development Pty Ltd",
    "state": "NSW",
    "region": "NSW1",
@@ -2286,7 +2286,7 @@
   },
   {
    "slug": "miskelly-bess-kci",
-   "name": "Miskelly BESS - KCI",
+   "name": "Miskelly BESS",
    "owner": "MISKELLY BESS PROJECT PTY LTD",
    "state": "NSW",
    "region": "NSW1",
@@ -2400,7 +2400,7 @@
   },
   {
    "slug": "murrumburrah-bess-kci",
-   "name": "Murrumburrah BESS - KCI",
+   "name": "Murrumburrah BESS",
    "owner": "FIrm Power P/L",
    "state": "NSW",
    "region": "NSW1",
@@ -2476,7 +2476,7 @@
   },
   {
    "slug": "narragamba-hybrid-project-kci",
-   "name": "Narragamba Hybrid Project - KCI",
+   "name": "Narragamba Hybrid Project",
    "owner": "ACEN Australia Pty Ltd",
    "state": "NSW",
    "region": "NSW1",
@@ -2514,7 +2514,7 @@
   },
   {
    "slug": "nerriga-bess-kci",
-   "name": "Nerriga BESS - KCI",
+   "name": "Nerriga BESS",
    "owner": "Northharbour",
    "state": "NSW",
    "region": "NSW1",
@@ -2704,7 +2704,7 @@
   },
   {
    "slug": "portland-bess-kci",
-   "name": "Portland BESS - KCI",
+   "name": "Portland BESS",
    "owner": "",
    "state": "NSW",
    "region": "NSW1",
@@ -2723,7 +2723,7 @@
   },
   {
    "slug": "pottinger-energy-park-battery-kci",
-   "name": "Pottinger Energy Park - Battery - KCI",
+   "name": "Pottinger Energy Park - Battery",
    "owner": "Pottinger Renewables P/L",
    "state": "NSW",
    "region": "NSW1",
@@ -3008,7 +3008,7 @@
   },
   {
    "slug": "silverdale-bess-kci",
-   "name": "Silverdale BESS - KCI",
+   "name": "Silverdale BESS",
    "owner": "",
    "state": "NSW",
    "region": "NSW1",
@@ -3084,7 +3084,7 @@
   },
   {
    "slug": "spring-creek-solar-farm-and-bess-hybrid-kci",
-   "name": "Spring Creek Solar Farm and BESS Hybrid - KCI",
+   "name": "Spring Creek Solar Farm and BESS Hybrid",
    "owner": "",
    "state": "NSW",
    "region": "NSW1",
@@ -3350,7 +3350,7 @@
   },
   {
    "slug": "tamworth-energy-reserve-kci",
-   "name": "Tamworth Energy Reserve - KCI",
+   "name": "Tamworth Energy Reserve",
    "owner": "The Trustee for Equis Energy (Ausralia) Ngumi 4 Asset Trust",
    "state": "NSW",
    "region": "NSW1",
@@ -3445,7 +3445,7 @@
   },
   {
    "slug": "tirranna-bess-kci",
-   "name": "Tirranna BESS - KCI",
+   "name": "Tirranna BESS",
    "owner": "StorEnergy 2 Pty Ltd",
    "state": "NSW",
    "region": "NSW1",
@@ -3483,7 +3483,7 @@
   },
   {
    "slug": "tuggerah-bess-kci",
-   "name": "Tuggerah BESS - KCI",
+   "name": "Tuggerah BESS",
    "owner": "BG Admin Pty Ltd",
    "state": "NSW",
    "region": "NSW1",
@@ -3577,27 +3577,8 @@
    "url": "https://powerdealdesk.com/au/projects/vales-point-bess/"
   },
   {
-   "slug": "wagga-north-bess-ib-vogt-kci",
-   "name": "Wagga North BESS (IB Vogt) - KCI",
-   "owner": "Ib vogt Development Australia Pty Ltd",
-   "state": "NSW",
-   "region": "NSW1",
-   "technology": "BESS",
-   "battery_mw": "120.12",
-   "battery_mwh": "463.26",
-   "solar_mw": "",
-   "aemo_status": "Publicly Announced",
-   "kci_id": "N00184",
-   "expected_full_commercial_use": "2028-03-30",
-   "aemo_survey_updated": "2026-05-25",
-   "source": "AEMO NEM Generation Information, July 2026",
-   "source_url": "https://www.aemo.com.au/energy-systems/electricity/national-electricity-market-nem/nem-forecasting-and-planning/forecasting-and-planning-data/generation-information",
-   "last_updated": "2026-10-19",
-   "url": "https://powerdealdesk.com/au/projects/wagga-north-bess-ib-vogt-kci/"
-  },
-  {
    "slug": "wagga-north-bess-kci",
-   "name": "Wagga North BESS - KCI",
+   "name": "Wagga North BESS",
    "owner": "Zebre Pty Ltd",
    "state": "NSW",
    "region": "NSW1",
@@ -3613,6 +3594,25 @@
    "source_url": "https://www.aemo.com.au/energy-systems/electricity/national-electricity-market-nem/nem-forecasting-and-planning/forecasting-and-planning-data/generation-information",
    "last_updated": "2026-10-19",
    "url": "https://powerdealdesk.com/au/projects/wagga-north-bess-kci/"
+  },
+  {
+   "slug": "wagga-north-bess-ib-vogt-kci",
+   "name": "Wagga North BESS (IB Vogt)",
+   "owner": "Ib vogt Development Australia Pty Ltd",
+   "state": "NSW",
+   "region": "NSW1",
+   "technology": "BESS",
+   "battery_mw": "120.12",
+   "battery_mwh": "463.26",
+   "solar_mw": "",
+   "aemo_status": "Publicly Announced",
+   "kci_id": "N00184",
+   "expected_full_commercial_use": "2028-03-30",
+   "aemo_survey_updated": "2026-05-25",
+   "source": "AEMO NEM Generation Information, July 2026",
+   "source_url": "https://www.aemo.com.au/energy-systems/electricity/national-electricity-market-nem/nem-forecasting-and-planning/forecasting-and-planning-data/generation-information",
+   "last_updated": "2026-10-19",
+   "url": "https://powerdealdesk.com/au/projects/wagga-north-bess-ib-vogt-kci/"
   },
   {
    "slug": "wagga-north-solar-farm-bess",
@@ -3996,7 +3996,7 @@
   },
   {
    "slug": "beebo-battary-kci",
-   "name": "Beebo Battary - KCI",
+   "name": "Beebo Battary",
    "owner": "BEEBO SOLAR FARM PTY LTD as Trustee For BEEBO SOLAR FARM UNIT TRUST",
    "state": "QLD",
    "region": "QLD1",
@@ -4034,7 +4034,7 @@
   },
   {
    "slug": "black-river-bess-kci",
-   "name": "Black River BESS - KCI",
+   "name": "Black River BESS",
    "owner": "Enervest Operations Pty Ltd",
    "state": "QLD",
    "region": "QLD1",
@@ -4072,7 +4072,7 @@
   },
   {
    "slug": "blackstone-bess-2-kci",
-   "name": "Blackstone BESS 2 - KCI",
+   "name": "Blackstone BESS 2",
    "owner": "FIrm Power P/L",
    "state": "QLD",
    "region": "QLD1",
@@ -4110,7 +4110,7 @@
   },
   {
    "slug": "blenheim-bess-kci",
-   "name": "Blenheim BESS - KCI",
+   "name": "Blenheim BESS",
    "owner": "EE AUSTRALIA PTY LTD",
    "state": "QLD",
    "region": "QLD1",
@@ -4167,7 +4167,7 @@
   },
   {
    "slug": "bouldercombe-battery-project-stage-2-kci",
-   "name": "Bouldercombe Battery project - Stage 2 - KCI",
+   "name": "Bouldercombe Battery project - Stage 2",
    "owner": "Genex Power Limited",
    "state": "QLD",
    "region": "QLD1",
@@ -4414,7 +4414,7 @@
   },
   {
    "slug": "callide-energy-hub-kci",
-   "name": "Callide Energy Hub - KCI",
+   "name": "Callide Energy Hub",
    "owner": "CSE BESS P/L",
    "state": "QLD",
    "region": "QLD1",
@@ -4528,7 +4528,7 @@
   },
   {
    "slug": "clarke-creek-2-bess-kci",
-   "name": "Clarke Creek 2 BESS - KCI",
+   "name": "Clarke Creek 2 BESS",
    "owner": "Isaac Wind and Solar Energy Pty Ltd",
    "state": "QLD",
    "region": "QLD1",
@@ -4544,6 +4544,25 @@
    "source_url": "https://www.aemo.com.au/energy-systems/electricity/national-electricity-market-nem/nem-forecasting-and-planning/forecasting-and-planning-data/generation-information",
    "last_updated": "2026-10-19",
    "url": "https://powerdealdesk.com/au/projects/clarke-creek-2-bess-kci/"
+  },
+  {
+   "slug": "collinsville-bess-kci",
+   "name": "Collinsville BESS",
+   "owner": "Ratch Energy SA",
+   "state": "QLD",
+   "region": "QLD1",
+   "technology": "BESS",
+   "battery_mw": "200",
+   "battery_mwh": "200",
+   "solar_mw": "",
+   "aemo_status": "Publicly Announced",
+   "kci_id": "Q00291",
+   "expected_full_commercial_use": "",
+   "aemo_survey_updated": "2026-01-22",
+   "source": "AEMO NEM Generation Information, July 2026",
+   "source_url": "https://www.aemo.com.au/energy-systems/electricity/national-electricity-market-nem/nem-forecasting-and-planning/forecasting-and-planning-data/generation-information",
+   "last_updated": "2026-10-19",
+   "url": "https://powerdealdesk.com/au/projects/collinsville-bess-kci/"
   },
   {
    "slug": "collinsville-bess",
@@ -4563,25 +4582,6 @@
    "source_url": "https://www.aemo.com.au/energy-systems/electricity/national-electricity-market-nem/nem-forecasting-and-planning/forecasting-and-planning-data/generation-information",
    "last_updated": "2026-10-19",
    "url": "https://powerdealdesk.com/au/projects/collinsville-bess/"
-  },
-  {
-   "slug": "collinsville-bess-kci",
-   "name": "Collinsville BESS - KCI",
-   "owner": "Ratch Energy SA",
-   "state": "QLD",
-   "region": "QLD1",
-   "technology": "BESS",
-   "battery_mw": "200",
-   "battery_mwh": "200",
-   "solar_mw": "",
-   "aemo_status": "Publicly Announced",
-   "kci_id": "Q00291",
-   "expected_full_commercial_use": "",
-   "aemo_survey_updated": "2026-01-22",
-   "source": "AEMO NEM Generation Information, July 2026",
-   "source_url": "https://www.aemo.com.au/energy-systems/electricity/national-electricity-market-nem/nem-forecasting-and-planning/forecasting-and-planning-data/generation-information",
-   "last_updated": "2026-10-19",
-   "url": "https://powerdealdesk.com/au/projects/collinsville-bess-kci/"
   },
   {
    "slug": "collinsville-north-battery-project",
@@ -4756,7 +4756,7 @@
   },
   {
    "slug": "edenvale-battery-energy-storage-system-kci",
-   "name": "Edenvale Battery Energy Storage System - KCI",
+   "name": "Edenvale Battery Energy Storage System",
    "owner": "",
    "state": "QLD",
    "region": "QLD1",
@@ -4889,7 +4889,7 @@
   },
   {
    "slug": "everleigh-solar-farm-and-bess-kci",
-   "name": "Everleigh Solar Farm and BESS - KCI",
+   "name": "Everleigh Solar Farm and BESS",
    "owner": "Everleigh Solar Park Pty Ltd",
    "state": "QLD",
    "region": "QLD1",
@@ -4984,7 +4984,7 @@
   },
   {
    "slug": "gladstone-sda-energy-hub-a-kci",
-   "name": "Gladstone SDA Energy Hub A - KCI",
+   "name": "Gladstone SDA Energy Hub A",
    "owner": "Private Energy Partners Pty Ltd",
    "state": "QLD",
    "region": "QLD1",
@@ -5193,7 +5193,7 @@
   },
   {
    "slug": "halys-to-chinchilla-dca-battery-kci",
-   "name": "Halys to Chinchilla DCA Battery - KCI",
+   "name": "Halys to Chinchilla DCA Battery",
    "owner": "UGL Pty Ltd",
    "state": "QLD",
    "region": "QLD1",
@@ -5250,7 +5250,7 @@
   },
   {
    "slug": "hookey-creek-hybrid-solar-and-bess-kci",
-   "name": "Hookey Creek Hybrid - Solar And BESs - KCI",
+   "name": "Hookey Creek Hybrid - Solar And BESs",
    "owner": "Zebre Pty Ltd",
    "state": "QLD",
    "region": "QLD1",
@@ -5383,7 +5383,7 @@
   },
   {
    "slug": "karara-bess-kci",
-   "name": "Karara BESS - KCI",
+   "name": "Karara BESS",
    "owner": "ACCIONA Energy",
    "state": "QLD",
    "region": "QLD1",
@@ -5440,7 +5440,7 @@
   },
   {
    "slug": "lilyvale-bess-kci",
-   "name": "Lilyvale BESS - KCI",
+   "name": "Lilyvale BESS",
    "owner": "ACEN Australia",
    "state": "QLD",
    "region": "QLD1",
@@ -5744,7 +5744,7 @@
   },
   {
    "slug": "nebo-bess-iberdrola-kci",
-   "name": "Nebo BESS (Iberdrola) - KCI",
+   "name": "Nebo BESS (Iberdrola)",
    "owner": "Iberdrola Australia Development Pty Ltd.",
    "state": "QLD",
    "region": "QLD1",
@@ -5839,7 +5839,7 @@
   },
   {
    "slug": "oases-mount-murchison-kci",
-   "name": "OASES Mount Murchison - KCI",
+   "name": "OASES Mount Murchison",
    "owner": "Released Energy Pty Ltd",
    "state": "QLD",
    "region": "QLD1",
@@ -5858,7 +5858,7 @@
   },
   {
    "slug": "pacific-green-energy-park-stonehill-kci",
-   "name": "Pacific Green Energy Park Stonehill - KCI",
+   "name": "Pacific Green Energy Park Stonehill",
    "owner": "Pacific Green Rocky Creek Pty Ltd",
    "state": "QLD",
    "region": "QLD1",
@@ -5877,7 +5877,7 @@
   },
   {
    "slug": "pacific-green-kingswell-energy-park-kci",
-   "name": "Pacific Green Kingswell Energy Park - KCI",
+   "name": "Pacific Green Kingswell Energy Park",
    "owner": "Pacific Green Energy Group Pty Ltd",
    "state": "QLD",
    "region": "QLD1",
@@ -5896,7 +5896,7 @@
   },
   {
    "slug": "pinnacles-bess-storage-kci",
-   "name": "Pinnacles BESS - Storage - KCI",
+   "name": "Pinnacles BESS - Storage",
    "owner": "Enervest Operations Pty Ltd",
    "state": "QLD",
    "region": "QLD1",
@@ -5915,7 +5915,7 @@
   },
   {
    "slug": "pioneer-bess-kci",
-   "name": "Pioneer BESS - KCI",
+   "name": "Pioneer BESS",
    "owner": "Edify Energy Pty Ltd",
    "state": "QLD",
    "region": "QLD1",
@@ -6067,7 +6067,7 @@
   },
   {
    "slug": "rutherglen-battery-kci",
-   "name": "Rutherglen Battery - KCI",
+   "name": "Rutherglen Battery",
    "owner": "Red Hill Renewable Energy Pty Ltd",
    "state": "QLD",
    "region": "QLD1",
@@ -6143,7 +6143,7 @@
   },
   {
    "slug": "specimen-hill-bess-storage-kci",
-   "name": "Specimen Hill BESS - Storage - KCI",
+   "name": "Specimen Hill BESS - Storage",
    "owner": "ARK Energy Corporation Pty Ltd",
    "state": "QLD",
    "region": "QLD1",
@@ -6162,7 +6162,7 @@
   },
   {
    "slug": "sri-mirabou-braemar-bess-kci",
-   "name": "SRI/Mirabou (Braemar) BESS - KCI",
+   "name": "SRI/Mirabou (Braemar) BESS",
    "owner": "Miraabou Energy Ltd",
    "state": "QLD",
    "region": "QLD1",
@@ -6352,7 +6352,7 @@
   },
   {
    "slug": "tangkam-bess-kci",
-   "name": "Tangkam BESS - KCI",
+   "name": "Tangkam BESS",
    "owner": "Atria Energy Ltd",
    "state": "QLD",
    "region": "QLD1",
@@ -6390,7 +6390,7 @@
   },
   {
    "slug": "teebar-creek-battery-storage-kci",
-   "name": "Teebar Creek Battery Storage - KCI",
+   "name": "Teebar Creek Battery Storage",
    "owner": "ATMOS DEVELOPMENTS PTY LTD",
    "state": "QLD",
    "region": "QLD1",
@@ -6428,7 +6428,7 @@
   },
   {
    "slug": "the-central-bess-kci",
-   "name": "The Central BESS - KCI",
+   "name": "The Central BESS",
    "owner": "ACEnergy Pty Ltd",
    "state": "QLD",
    "region": "QLD1",
@@ -6542,7 +6542,7 @@
   },
   {
    "slug": "tuckeroo-bess-kci",
-   "name": "Tuckeroo BESS - KCI",
+   "name": "Tuckeroo BESS",
    "owner": "Tuckeroo BESS Pty Ltd",
    "state": "QLD",
    "region": "QLD1",
@@ -6675,7 +6675,7 @@
   },
   {
    "slug": "wamuran-bess-kci",
-   "name": "Wamuran BESS - KCI",
+   "name": "Wamuran BESS",
    "owner": "RTB Renewables Pty Ltd",
    "state": "QLD",
    "region": "QLD1",
@@ -6713,7 +6713,7 @@
   },
   {
    "slug": "warrego-bess-wbess-kci",
-   "name": "Warrego BESS (WBESS) - KCI",
+   "name": "Warrego BESS (WBESS)",
    "owner": "CI Warrego Pty Ltd as The Trustee for CI Warrego Trust",
    "state": "QLD",
    "region": "QLD1",
@@ -6770,7 +6770,7 @@
   },
   {
    "slug": "woolooga-bess-kci",
-   "name": "Woolooga BESS - KCI",
+   "name": "Woolooga BESS",
    "owner": "Elements Green Australia Pty Ltd",
    "state": "QLD",
    "region": "QLD1",
@@ -6979,7 +6979,7 @@
   },
   {
    "slug": "blanche-bess-kci",
-   "name": "Blanche BESS - KCI",
+   "name": "Blanche BESS",
    "owner": "Blanche BESS Pty Ltd as trustee for Blanche BESS Trust",
    "state": "SA",
    "region": "SA1",
@@ -7739,7 +7739,7 @@
   },
   {
    "slug": "morgan-long-duration-energy-storage-kci",
-   "name": "Morgan Long Duration Energy Storage - KCI",
+   "name": "Morgan Long Duration Energy Storage",
    "owner": "Origin Energy",
    "state": "SA",
    "region": "SA1",
@@ -7777,7 +7777,7 @@
   },
   {
    "slug": "mount-remarkable-energy-hub-bess-1-kci",
-   "name": "Mount Remarkable Energy Hub BESS 1 - KCI",
+   "name": "Mount Remarkable Energy Hub BESS 1",
    "owner": "",
    "state": "SA",
    "region": "SA1",
@@ -7796,7 +7796,7 @@
   },
   {
    "slug": "mount-remarkable-energy-hub-bess-2-kci",
-   "name": "Mount Remarkable Energy Hub BESS 2 - KCI",
+   "name": "Mount Remarkable Energy Hub BESS 2",
    "owner": "",
    "state": "SA",
    "region": "SA1",
@@ -7986,7 +7986,7 @@
   },
   {
    "slug": "project-monash-storage-kci",
-   "name": "Project Monash - Storage - KCI",
+   "name": "Project Monash - Storage",
    "owner": "Monash Renewables Pty Ltd",
    "state": "SA",
    "region": "SA1",
@@ -8138,7 +8138,7 @@
   },
   {
    "slug": "south-east-bess-storage-kci",
-   "name": "South East BESS - Storage - KCI",
+   "name": "South East BESS - Storage",
    "owner": "Equis Energy (Australia) Projects (Ngumi 8) Pty Ltd as trustee for the Equis Energy(Australia) Ngumi 8 Asset Trust",
    "state": "SA",
    "region": "SA1",
@@ -8309,7 +8309,7 @@
   },
   {
    "slug": "tungkillo-bess-kci",
-   "name": "Tungkillo BESS - KCI",
+   "name": "Tungkillo BESS",
    "owner": "Iberdrola Australia Limited",
    "state": "SA",
    "region": "SA1",
@@ -8366,7 +8366,7 @@
   },
   {
    "slug": "whyalla-bess-kci",
-   "name": "Whyalla BESS - KCI",
+   "name": "Whyalla BESS",
    "owner": "Aquila Capital",
    "state": "SA",
    "region": "SA1",
@@ -8404,7 +8404,7 @@
   },
   {
    "slug": "george-town-bess-kci",
-   "name": "George Town BESS - KCI",
+   "name": "George Town BESS",
    "owner": "Recurrent Energy (Australia) Pty Ltd",
    "state": "TAS",
    "region": "TAS1",
@@ -8518,7 +8518,7 @@
   },
   {
    "slug": "pear-tree-solar-hybrid-project-kci",
-   "name": "Pear Tree Solar Hybrid Project - KCI",
+   "name": "Pear Tree Solar Hybrid Project",
    "owner": "",
    "state": "TAS",
    "region": "TAS1",
@@ -8689,7 +8689,7 @@
   },
   {
    "slug": "berrybank-bess-storage-kci",
-   "name": "Berrybank BESS - Storage - KCI",
+   "name": "Berrybank BESS - Storage",
    "owner": "Global Power Generation Australia Pty Ltd",
    "state": "VIC",
    "region": "VIC1",
@@ -8841,7 +8841,7 @@
   },
   {
    "slug": "cooba-solar-farm-kci",
-   "name": "Cooba Solar Farm - KCI",
+   "name": "Cooba Solar Farm",
    "owner": "Venn Energy Pty Ltd / Cooba Solar Project Pty Ltd",
    "state": "VIC",
    "region": "VIC1",
@@ -9031,7 +9031,7 @@
   },
   {
    "slug": "east-terang-bess-kci",
-   "name": "East Terang BESS - KCI",
+   "name": "East Terang BESS",
    "owner": "Terang ESS Pty Ltd as trustee for the TESS Project Trust",
    "state": "VIC",
    "region": "VIC1",
@@ -9050,7 +9050,7 @@
   },
   {
    "slug": "eiwa-horsham-bess-kci",
-   "name": "EIWA Horsham BESS - KCI",
+   "name": "EIWA Horsham BESS",
    "owner": "EIWA HORSHAM BESS Pty Ltd",
    "state": "VIC",
    "region": "VIC1",
@@ -9202,7 +9202,7 @@
   },
   {
    "slug": "gippsland-bess-formerly-tramway-bess-kci",
-   "name": "Gippsland BESS ( formerly Tramway BESS) - KCI",
+   "name": "Gippsland BESS ( formerly Tramway BESS)",
    "owner": "",
    "state": "VIC",
    "region": "VIC1",
@@ -9259,7 +9259,7 @@
   },
   {
    "slug": "glenrowan-bess-storage-kci",
-   "name": "Glenrowan BESS - Storage - KCI",
+   "name": "Glenrowan BESS - Storage",
    "owner": "Enervest Operations Pty Ltd",
    "state": "VIC",
    "region": "VIC1",
@@ -9354,7 +9354,7 @@
   },
   {
    "slug": "grahamvale-bess-kci",
-   "name": "Grahamvale BESS - KCI",
+   "name": "Grahamvale BESS",
    "owner": "AE BESS 3 Pty Ltd as Trustee for AE BESS 3 Unit Trust",
    "state": "VIC",
    "region": "VIC1",
@@ -9392,7 +9392,7 @@
   },
   {
    "slug": "hazelwood-bess-kci",
-   "name": "Hazelwood BESS - KCI",
+   "name": "Hazelwood BESS",
    "owner": "International Power (Australia) Pty Ltd",
    "state": "VIC",
    "region": "VIC1",
@@ -9411,7 +9411,7 @@
   },
   {
    "slug": "hazelwood-east-bess-kci",
-   "name": "Hazelwood East BESS - KCI",
+   "name": "Hazelwood East BESS",
    "owner": "Hazelwood East BESS",
    "state": "VIC",
    "region": "VIC1",
@@ -9506,7 +9506,7 @@
   },
   {
    "slug": "joel-joel-bess-2-kci",
-   "name": "Joel Joel BESS 2 - KCI",
+   "name": "Joel Joel BESS 2",
    "owner": "ACEnergy Pty Ltd",
    "state": "VIC",
    "region": "VIC1",
@@ -9715,7 +9715,7 @@
   },
   {
    "slug": "lovely-banks-renewable-energy-hub-kci",
-   "name": "Lovely Banks Renewable Energy Hub - KCI",
+   "name": "Lovely Banks Renewable Energy Hub",
    "owner": "Syncline Energy Pty Ltd",
    "state": "VIC",
    "region": "VIC1",
@@ -9734,7 +9734,7 @@
   },
   {
    "slug": "loy-yang-b-power-station-bess-stage-1-kci",
-   "name": "Loy Yang B Power Station - BESS Stage 1 - KCI",
+   "name": "Loy Yang B Power Station - BESS Stage 1",
    "owner": "Alinta Energy Clean Energy Development Pty Ltd",
    "state": "VIC",
    "region": "VIC1",
@@ -9772,7 +9772,7 @@
   },
   {
    "slug": "malunga-nine-mile-bess-kci",
-   "name": "Malunga Nine Mile BESS - KCI",
+   "name": "Malunga Nine Mile BESS",
    "owner": "Green Switch Energy Pty Ltd",
    "state": "VIC",
    "region": "VIC1",
@@ -9810,7 +9810,7 @@
   },
   {
    "slug": "melbourne-grid-battery-kci",
-   "name": "Melbourne Grid Battery - KCI",
+   "name": "Melbourne Grid Battery",
    "owner": "Lumea",
    "state": "VIC",
    "region": "VIC1",
@@ -9905,7 +9905,7 @@
   },
   {
    "slug": "melbourne-solar-farm-and-bess-kci",
-   "name": "Melbourne Solar Farm and BESS - KCI",
+   "name": "Melbourne Solar Farm and BESS",
    "owner": "European Energy",
    "state": "VIC",
    "region": "VIC1",
@@ -9924,7 +9924,7 @@
   },
   {
    "slug": "middle-hut-bess-kci",
-   "name": "Middle Hut BESS - KCI",
+   "name": "Middle Hut BESS",
    "owner": "Middle Hut Storage Pty Ltd",
    "state": "VIC",
    "region": "VIC1",
@@ -10019,7 +10019,7 @@
   },
   {
    "slug": "mortlake-bess-2-kci",
-   "name": "Mortlake BESS 2 - KCI",
+   "name": "Mortlake BESS 2",
    "owner": "Origin Energy Electricity Limited",
    "state": "VIC",
    "region": "VIC1",
@@ -10057,7 +10057,7 @@
   },
   {
    "slug": "mortlake-energy-hub-stage-2-kci",
-   "name": "Mortlake Energy Hub Stage 2 - KCI",
+   "name": "Mortlake Energy Hub Stage 2",
    "owner": "BRIGHTNIGHT AUSTRALIA PTY LTD",
    "state": "VIC",
    "region": "VIC1",
@@ -10133,7 +10133,7 @@
   },
   {
    "slug": "murchs-corner-bess-kci",
-   "name": "Murchs Corner BESS - KCI",
+   "name": "Murchs Corner BESS",
    "owner": "Murchs\u2019 Corner Energy Pty Ltd",
    "state": "VIC",
    "region": "VIC1",
@@ -10190,7 +10190,7 @@
   },
   {
    "slug": "north-yarragon-bess-kci",
-   "name": "North Yarragon BESS - KCI",
+   "name": "North Yarragon BESS",
    "owner": "ZEBRE Pty Ltd",
    "state": "VIC",
    "region": "VIC1",
@@ -10304,7 +10304,7 @@
   },
   {
    "slug": "pine-lodge-2-bess-kci",
-   "name": "Pine Lodge 2 BESS - KCI",
+   "name": "Pine Lodge 2 BESS",
    "owner": "ACEnergy Pty Ltd",
    "state": "VIC",
    "region": "VIC1",
@@ -10361,7 +10361,7 @@
   },
   {
    "slug": "portland-renewables-project-kci",
-   "name": "Portland Renewables Project - KCI",
+   "name": "Portland Renewables Project",
    "owner": "HAMR Energy Pty Ltd",
    "state": "VIC",
    "region": "VIC1",
@@ -10513,7 +10513,7 @@
   },
   {
    "slug": "tarrone-bess-storage-kci",
-   "name": "Tarrone BESS - Storage - KCI",
+   "name": "Tarrone BESS - Storage",
    "owner": "Global Power Generation Australia Pty Ltd",
    "state": "VIC",
    "region": "VIC1",
@@ -10684,7 +10684,7 @@
   },
   {
    "slug": "waubra-bess-kci",
-   "name": "Waubra BESS - KCI",
+   "name": "Waubra BESS",
    "owner": "Acciona Energy Australia Global",
    "state": "VIC",
    "region": "VIC1",
@@ -10741,7 +10741,7 @@
   },
   {
    "slug": "wimpole-bess-kci",
-   "name": "Wimpole BESS - KCI",
+   "name": "Wimpole BESS",
    "owner": "AMPYR Energy",
    "state": "VIC",
    "region": "VIC1",
@@ -10836,7 +10836,7 @@
   },
   {
    "slug": "zero-moorabool-bess-cordoba-bess-kci",
-   "name": "Zero Moorabool BESS (Cordoba BESS) - KCI",
+   "name": "Zero Moorabool BESS (Cordoba BESS)",
    "owner": "Zero E Services Australia Pty Ltd",
    "state": "VIC",
    "region": "VIC1",
