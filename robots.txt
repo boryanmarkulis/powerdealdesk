@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-Disallow: /au/thanks
 Sitemap: https://powerdealdesk.com/sitemap.xml
