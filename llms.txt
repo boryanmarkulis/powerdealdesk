@@ -1,0 +1,18 @@
+# PowerDealDesk
+> Subscription research service (powered by Regenify) tracking Australian National Electricity Market (NEM) battery storage (BESS) and solar+BESS hybrid development projects for buyers: IPPs, infrastructure funds and family offices. Public data is sourced to AEMO Generation Information and state planning records. Contact: deals@powerdealdesk.com
+
+## Key pages
+- [Australia home, plans and free brief](https://powerdealdesk.com/au/)
+- [Australian NEM battery & hybrid project tracker (public, sourced table)](https://powerdealdesk.com/au/nem-bess-tracker/)
+- State trackers: [NSW](https://powerdealdesk.com/au/nsw/), [QLD](https://powerdealdesk.com/au/qld/), [VIC](https://powerdealdesk.com/au/vic/), [SA](https://powerdealdesk.com/au/sa/)
+
+## Guides
+- [Aemo generation information explained](https://powerdealdesk.com/au/guides/aemo-generation-information-explained/)
+- [Bess ready to build checklist](https://powerdealdesk.com/au/guides/bess-ready-to-build-checklist/)
+- [How to buy battery storage project australia](https://powerdealdesk.com/au/guides/how-to-buy-battery-storage-project-australia/)
+- [Nem connection process stages](https://powerdealdesk.com/au/guides/nem-connection-process-stages/)
+- [Nsw planning approval battery projects](https://powerdealdesk.com/au/guides/nsw-planning-approval-battery-projects/)
+
+## Notes
+- Readiness scores and rankings are paid/subscriber-only and not published.
+- Last updated 2026-10-19.
