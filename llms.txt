@@ -11,7 +11,7 @@
 ## Data (public-record fields only)
 - [projects.csv](https://powerdealdesk.com/au/data/projects.csv)
 - [projects.json](https://powerdealdesk.com/au/data/projects.json)
-- Source: AEMO NEM Generation Information, July 2026
+- Source: AEMO NEM Generation Information, October 2026
 
 ## Guides
 - [How to buy a battery storage project in Australia](https://powerdealdesk.com/au/guides/how-to-buy-battery-storage-project-australia/)
@@ -24,4 +24,4 @@
 ## Notes
 - Readiness scores and rankings are subscriber-only and not published.
 - Featured listings are advertising; no brokerage or success fees.
-- Last updated 2026-10-24.
+- Last updated 2026-11-02.
