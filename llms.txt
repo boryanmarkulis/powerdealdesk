@@ -4,6 +4,7 @@
 ## Key pages
 - [Project directory (SA projects, filterable)](https://powerdealdesk.com/au/nem-bess-tracker/)
 - [Largest battery projects in the NEM](https://powerdealdesk.com/au/largest-battery-projects-australia/)
+- [Battery projects coming online in the NEM, 2026-2028 (AEMO dates)](https://powerdealdesk.com/au/battery-projects-coming-online/)
 - State pages: [NSW](https://powerdealdesk.com/au/nsw/), [QLD](https://powerdealdesk.com/au/qld/), [VIC](https://powerdealdesk.com/au/vic/), [SA](https://powerdealdesk.com/au/sa/)
 - Project pages: https://powerdealdesk.com/au/projects/<slug>/ (one per AEMO site)
 - [List or claim your project](https://powerdealdesk.com/au/list-your-project/)
