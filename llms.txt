@@ -7,6 +7,7 @@
 - [Battery projects coming online in the NEM, 2026-2028 (AEMO dates)](https://powerdealdesk.com/au/battery-projects-coming-online/)
 - State pages: [NSW](https://powerdealdesk.com/au/nsw/), [QLD](https://powerdealdesk.com/au/qld/), [VIC](https://powerdealdesk.com/au/vic/), [SA](https://powerdealdesk.com/au/sa/)
 - Project pages: https://powerdealdesk.com/au/projects/<slug>/ (one per AEMO site)
+- [Battery project owners (3+ sites)](https://powerdealdesk.com/au/owners/): https://powerdealdesk.com/au/owners/<owner-slug>/
 - [List or claim your project](https://powerdealdesk.com/au/list-your-project/)
 - [Home, plans and free brief](https://powerdealdesk.com/au/)
 
