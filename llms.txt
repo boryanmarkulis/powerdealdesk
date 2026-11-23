@@ -5,6 +5,8 @@
 - [Project directory (SA projects, filterable)](https://powerdealdesk.com/au/nem-bess-tracker/)
 - [Largest battery projects in the NEM](https://powerdealdesk.com/au/largest-battery-projects-australia/)
 - [Battery projects coming online in the NEM, 2026-2028 (AEMO dates)](https://powerdealdesk.com/au/battery-projects-coming-online/)
+- [Battery projects for sale in Australia? Early-stage sites held by owners with 1-2 sites (not confirmed for sale)](https://powerdealdesk.com/au/battery-projects-for-sale-australia/)
+- [New battery projects added to AEMO's list since July 2026](https://powerdealdesk.com/au/new-battery-projects-australia/)
 - State pages: [NSW](https://powerdealdesk.com/au/nsw/), [QLD](https://powerdealdesk.com/au/qld/), [VIC](https://powerdealdesk.com/au/vic/), [SA](https://powerdealdesk.com/au/sa/)
 - Project pages: https://powerdealdesk.com/au/projects/<slug>/ (one per AEMO site)
 - [Battery project owners (3+ sites)](https://powerdealdesk.com/au/owners/): https://powerdealdesk.com/au/owners/<owner-slug>/
