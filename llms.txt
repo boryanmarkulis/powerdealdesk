@@ -25,6 +25,10 @@
 - [What makes a BESS project ready to close](https://powerdealdesk.com/au/guides/bess-ready-to-build-checklist/)
 - [NSW planning approval process for battery projects](https://powerdealdesk.com/au/guides/nsw-planning-approval-battery-projects/)
 - [Capacity Investment Scheme (CIS) explained for BESS and storage](https://powerdealdesk.com/au/guides/capacity-investment-scheme/)
+- [AEMO project status explained](https://powerdealdesk.com/au/guides/aemo-commitment-status-explained/)
+- [Battery project due diligence checklist](https://powerdealdesk.com/au/guides/battery-project-due-diligence-checklist/)
+- [Australia's battery storage pipeline](https://powerdealdesk.com/au/guides/battery-storage-pipeline-australia/)
+- [How battery storage projects are valued in Australia](https://powerdealdesk.com/au/guides/battery-project-valuation-basics/)
 
 ## Notes
 - Readiness scores and rankings are subscriber-only and not published.
