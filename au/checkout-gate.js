@@ -108,71 +108,51 @@
   }
 
   function recordIntent(payload) {
-    // Primary: FormSubmit ajax (emails deals@). Fire-and-forget.
-    var body = JSON.stringify(payload);
-    var sent = false;
-    try {
-      if (navigator.sendBeacon) {
-        var blob = new Blob([body], { type: 'application/json' });
-        sent = navigator.sendBeacon(FORMSUBMIT, blob);
-      }
-    } catch (e) {}
-    if (!sent) {
-      try {
-        fetch(FORMSUBMIT, {
-          method: 'POST',
-          headers: { 'Content-Type': 'application/json', Accept: 'application/json' },
-          body: body,
-          mode: 'cors',
-          keepalive: true
-        }).catch(function () {});
-      } catch (e2) {}
+    // 2026-11-27 fix: the old path (sendBeacon with a JSON blob, then a hidden-iframe form) never delivered.
+    // sendBeacon is credentialed, so the JSON preflight fails against FormSubmit's "Access-Control-Allow-Origin: *",
+    // yet sendBeacon still returns true; and the iframe POST was aborted by the Stripe redirect 180 ms later.
+    // Now: multipart FormData (CORS-simple, no preflight) via fetch with keepalive, and the caller waits for it.
+    var fields = {
+      _subject: payload._subject,
+      _captcha: 'false',
+      _template: 'table',
+      email: payload.email,
+      name: payload.name || '',
+      company: payload.company || '',
+      sku: payload.sku,
+      project_slug: payload.project_slug || '',
+      page_url: payload.page_url,
+      stripe_url: payload.stripe_url,
+      timestamp: payload.timestamp,
+      source: 'checkout-gate'
+    };
+    function fd() {
+      var f = new FormData();
+      Object.keys(fields).forEach(function (k) { f.append(k, fields[k]); });
+      return f;
     }
-    // Fallback: hidden form POST to FormSubmit in a named iframe (no navigation)
+    function beacon() {
+      try { if (navigator.sendBeacon) return navigator.sendBeacon(FORMSUBMIT, fd()); } catch (e) {}
+      return false;
+    }
+    var done;
     try {
-      var ifr = document.getElementById('pdd-cg-iframe');
-      if (!ifr) {
-        ifr = document.createElement('iframe');
-        ifr.name = 'pdd-cg-iframe';
-        ifr.id = 'pdd-cg-iframe';
-        ifr.title = 'checkout intent';
-        ifr.style.cssText = 'position:absolute;width:0;height:0;border:0;visibility:hidden';
-        document.body.appendChild(ifr);
-      }
-      var f = document.createElement('form');
-      f.method = 'POST';
-      f.action = 'https://formsubmit.co/deals@powerdealdesk.com';
-      f.target = 'pdd-cg-iframe';
-      f.style.display = 'none';
-      var fields = {
-        _subject: payload._subject,
-        _captcha: 'false',
-        _template: 'table',
-        email: payload.email,
-        name: payload.name || '',
-        company: payload.company || '',
-        sku: payload.sku,
-        project_slug: payload.project_slug || '',
-        page_url: payload.page_url,
-        stripe_url: payload.stripe_url,
-        timestamp: payload.timestamp,
-        source: 'checkout-gate'
-      };
-      Object.keys(fields).forEach(function (k) {
-        var inp = document.createElement('input');
-        inp.type = 'hidden';
-        inp.name = k;
-        inp.value = fields[k];
-        f.appendChild(inp);
+      done = fetch(FORMSUBMIT, {
+        method: 'POST',
+        headers: { Accept: 'application/json' },
+        body: fd(),
+        mode: 'cors',
+        credentials: 'omit',
+        keepalive: true
+      }).then(function (r) {
+        if (!r.ok) beacon();
+      }, function () {
+        beacon();
       });
-      document.body.appendChild(f);
-      f.submit();
-      setTimeout(function () {
-        try {
-          f.remove();
-        } catch (e3) {}
-      }, 2000);
-    } catch (e4) {}
+    } catch (e) {
+      beacon();
+      done = Promise.resolve();
+    }
     // Local mirror for same-session recovery / checkout-intent page
     try {
       var log = [];
@@ -185,6 +165,7 @@
       sessionStorage.setItem('pdd_checkout_intents', JSON.stringify(log.slice(-20)));
       sessionStorage.setItem('pdd_last_checkout_intent', JSON.stringify(payload));
     } catch (e6) {}
+    return done;
   }
 
   function onSubmit(e) {
@@ -224,12 +205,17 @@
       go.disabled = true;
       go.textContent = 'Redirecting…';
     }
-    recordIntent(payload);
     try { sessionStorage.setItem('pdd_stripe_dest', stripeUrl); } catch (e7) {}
-    // Brief pause so beacon/form can leave before unload
-    setTimeout(function () {
+    var went = false;
+    function go2() {
+      if (went) return;
+      went = true;
       location.href = stripeUrl;
-    }, 180);
+    }
+    // Wait for FormSubmit to accept the intent (usually <1 s), max 2.5 s, then continue to Stripe.
+    var p = recordIntent(payload);
+    if (p && p.then) p.then(go2, go2);
+    setTimeout(go2, 2500);
   }
 
   function isStripeBuy(a) {
